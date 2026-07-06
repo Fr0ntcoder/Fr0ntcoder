@@ -83,28 +83,6 @@
 
 ---
 
-# 📊 Статистика GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fr0ntcoder&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0ntcoder&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Fr0ntcoder&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📈 График активности
 
 <div align="center">
@@ -115,21 +93,10 @@
 
 ---
 
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fr0ntcoder&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true"/>
-
-</div>
-
----
-
 # 📚 Сейчас изучаю
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![DDD](https://img.shields.io/badge/Domain_Driven_Design-0A66C2?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-FF5722?style=for-the-badge)
 
