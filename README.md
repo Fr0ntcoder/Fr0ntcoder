@@ -1,6 +1,41 @@
+<div align="center">
+
+# 👋 Привет, меня зовут Fr0ntcoder
+
+### 🚀 Full Stack JavaScript Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=3BA1F2&center=true&vCenter=true&width=700&lines=Разработка+современных+веб-приложений;CRM+и+ERP+системы;Vue+3+%7C+Nuxt+3+%7C+NestJS;TypeScript+Developer;Постоянно+изучаю+новые+технологии" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Fr0ntcoder&label=Просмотры+профиля&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+---
+
+# 👨‍💻 Обо мне
+
+Привет! 👋
+
+Я **Full Stack JavaScript Developer**, специализирующийся на разработке современных веб-приложений, CRM и ERP-систем.
+
+Люблю создавать масштабируемые проекты, уделяю большое внимание архитектуре приложений, производительности и качеству кода.
+
+### 🎯 Основные направления
+
+- 🚀 Разработка CRM-систем
+- 🏭 ERP для промышленности
+- ⚡ Высоконагруженные веб-приложения
+- 🌐 Full Stack разработка
+- 🔗 REST API / GraphQL
+- 🏗 Проектирование архитектуры приложений
+
+---
+
 # 💻 Мой стек технологий
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 ![Vue 3](https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt 3](https://img.shields.io/badge/Nuxt_3-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
@@ -21,7 +56,7 @@
 
 ---
 
-### ⚙️ Backend
+## ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -37,7 +72,7 @@
 
 ---
 
-### 🛠 DevOps и инструменты
+## 🛠 DevOps и инструменты
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -45,3 +80,87 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+---
+
+# 📊 Статистика GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fr0ntcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0ntcoder&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Fr0ntcoder&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 График активности
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fr0ntcoder&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Fr0ntcoder&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true"/>
+
+</div>
+
+---
+
+# 📚 Сейчас изучаю
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![DDD](https://img.shields.io/badge/Domain_Driven_Design-0A66C2?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF5722?style=for-the-badge)
+
+---
+
+# 📫 Контакты
+
+### 📧 Предпочитаемый способ связи
+
+[![Email](https://img.shields.io/badge/Email-creativ4lk%40vk.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:creativ4lk@vk.com)
+
+### 📱 Телефон
+
+![Phone](https://img.shields.io/badge/+7%20910%20543--53--57-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+---
+
+# 🌐 Профили
+
+[![GitHub](https://img.shields.io/badge/GitHub-Fr0ntcoder-181717?style=for-the-badge&logo=github)](https://github.com/Fr0ntcoder)
+
+---
+
+<div align="center">
+
+## 💬 Любимая цитата
+
+> **"Хороший код — это не только рабочее решение, но и инвестиция в будущее проекта."**
+
+⭐ Спасибо, что посетили мой профиль!
+
+### 🚀 Всегда открыт к интересным проектам и новым возможностям.
+
+</div>
